@@ -25,7 +25,7 @@ def main():
     elif total1 > total2:
         print(str(total1) + "greater than" + str(total2))
     else:
-        print(str(total2) + " greater than " + str(total1))
+        print(str(total2) + ":greater than:" + str(total1))
 
 
 if __name__ == "__main__":
